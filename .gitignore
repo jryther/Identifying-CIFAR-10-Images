@@ -1,2 +1,5 @@
 # odt files
 *.odt
+
+# html files
+*.html
